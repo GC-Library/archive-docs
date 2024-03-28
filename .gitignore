@@ -1,3 +1,2 @@
-# ignore
 .DS_Store
-/venv
+venv/
