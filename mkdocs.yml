@@ -2,7 +2,7 @@ site_name: Mina Rees Library Archives Processing Manual
 theme:
   name: material
 nav:
- - Home: index.md
+ - Home: README.md
  - About: about.md
  - DACS notes: notes.md
 markdown_extensions:
