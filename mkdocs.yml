@@ -1,3 +1,7 @@
-site_name: My Docs
+site_name: Mina Rees Library Archives Processing Manual
 theme:
   name: material
+nav:
+ - Home: index.md
+ - About: about.md
+ - DACS notes: notes.md

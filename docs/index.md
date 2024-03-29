@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# CUNY Graduate Center Archives and Special Collections, Mina Rees Library: Archives Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is a space to maintain instructions for processing archival collections and using ArchivesSpace at the Mina Rees Library, CUNY Graduate Center.
 
-## Commands
+It is a work in progress. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Please direct questions or comments to [Roxanne Shirazi](mailto:rshirazi@gc.cuny.edu).
