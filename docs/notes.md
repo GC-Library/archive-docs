@@ -13,7 +13,7 @@ Choose the appropriate language from the options below.
 ## Immediate Source of Acquisition
 Choose the appropriate language from the options below.
 
-**Boilerplate Language**
+Boilerplate Language
 
 1. Source unknown
 2. All items in this collection were transferred to the CUNY Graduate Center Archives and Special Collections, Mina Rees Library, by [insert office name].

@@ -5,3 +5,6 @@ nav:
  - Home: index.md
  - About: about.md
  - DACS notes: notes.md
+markdown_extensions:
+  - toc:
+      permalink: "#"
