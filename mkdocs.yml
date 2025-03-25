@@ -11,8 +11,6 @@ nav:
  - About: about.md
  - DACS notes: notes.md
  - Digitization: digitization/index.md
-     - JSTOR Forum: digitization/forum/index.md
-     - Student Newspapers: digitization/forum/student-news.md
     
 markdown_extensions:
   - toc:
