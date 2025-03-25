@@ -10,7 +10,13 @@ nav:
  - Home: README.md
  - About: about.md
  - DACS notes: notes.md
- - Digitization: digitization/index.md
+ - Digitization: 
+   - digitization/index.md
+   - Documents: digitization/documents.md
+   - Photos: digitization/photos.md
+   - JSTOR Forum: 
+     - forum/index.md
+     - Student Newspapers Project: forum/student-news.md
     
 markdown_extensions:
   - toc:
