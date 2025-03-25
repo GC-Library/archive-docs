@@ -2,6 +2,10 @@ site_name: Mina Rees Library Archives Manual
 theme:
   name: material
   favicon: img/favicon.ico
+  features:
+    - navigation.path
+    - navigation.indexes
+    - navigation.top
 nav:
  - Home: README.md
  - About: about.md
@@ -13,8 +17,4 @@ nav:
 markdown_extensions:
   - toc:
       permalink: "#"
-theme:
-  features:
-    - navigation.path
-    - navigation.indexes
-    - navigation.top
+  
