@@ -1,4 +1,4 @@
-# CUNY Graduate Center Archives and Special Collections, Mina Rees Library: Archives Documentation
+# Mina Rees Library Archives Documentation
 
 This is a space to maintain instructions for processing archival collections and using ArchivesSpace at the Mina Rees Library, CUNY Graduate Center.
 
