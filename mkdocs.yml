@@ -12,6 +12,11 @@ theme:
     - navigation.indexes
     - navigation.tracking
     - toc.integrate
+    - content.footnote.tooltips
+  palette: 
+    scheme: slate
+    primary: teal
+    accent: amber
 nav:
  - Home: README.md
  - About: about.md
@@ -22,9 +27,10 @@ nav:
  - JSTOR Institutional Collections: 
    - jstor/index.md
    - Student Newspapers Project: jstor/student-news.md
-    
 markdown_extensions:
   - toc:
       permalink: "#"
   - tables
-  
+  - footnotes
+extra_css:
+  - stylesheets/extra.css  
