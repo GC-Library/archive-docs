@@ -1,20 +1,27 @@
 site_name: Mina Rees Library Archives Manual
+site_url: https://gc-library.github.io/archive-docs/
 theme:
   name: material
   favicon: img/favicon.ico
   features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.preview
     - navigation.path
-    - navigation.top
+    - navigation.sections
+    - navigation.indexes
+    - navigation.tracking
+    - toc.integrate
 nav:
  - Home: README.md
  - About: about.md
  - DACS notes: notes.md
- - Digitization: 
-   - Introduction: digitization/intro.md
-   - Epson 12000XL: digitization/epson.md
- - JSTOR Forum: 
-   - Introduction: forum/intro.md
-   - Student Newspapers Project: forum/student-news.md
+ - Scanning: 
+   - scanning/index.md
+   - Epson 13000XL: scanning/epson.md
+ - JSTOR Institutional Collections: 
+   - jstor/index.md
+   - Student Newspapers Project: jstor/student-news.md
     
 markdown_extensions:
   - toc:

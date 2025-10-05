@@ -1,0 +1,1 @@
+This section will explain the workflow for publishing digital collections to JSTOR.
