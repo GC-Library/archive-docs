@@ -1,5 +1,5 @@
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color:        #f7f6f2;
-  --md-primary-fg-color--light: #fff;
-  --md-primary-fg-color--dark:  #fcfcfb;
+  --md-default-fg-color:        #f7f6f2;
+  --md-default-fg-color--light: #f5efe1;
+  --md-default-fg-color--dark:  #fcfcfb;
 }
