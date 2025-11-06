@@ -1,7 +1,7 @@
-Student Newspaper Digitization Project Fields in JSTOR - Metadata Template Explainer
+# Student Newspaper Digitization Project Fields in JSTOR - Metadata Template Explainer
 
-| Label | Type | Sample Value | Definition | Cataloging Forms | Repeatable? |
-| ----- | ----- | ----- | -----|
+|Label|Type|Sample Value|Definition|Cataloging Forms|Repeatable?|
+|-----|----|------------|----------|----------------|-----------|
 | SSID | Import field | NEW | Bulk fill this column to add new items. | N/A | N |
 | Filename | Import field | ofc_001.pdf | Uses the collection prefix with numerical count; consult digitization log files. | N/A | N |
 | Periodicals Container | List field | Off-Center | Associates a single issue with the full publication page or "container" in JSTOR. Uses Graduate Center Periodicals local container list; bulk spreadsheet requires field code; obtain from container export file. | Brief, Full |
