@@ -27,6 +27,7 @@ nav:
  - JSTOR Institutional Collections: 
    - jstor/index.md
    - Student Newspapers Project: jstor/student-news.md
+   - Metadata Explainer for Student Newspapers: jstor/metadata-documentation.md
 markdown_extensions:
   - toc:
       permalink: "#"
